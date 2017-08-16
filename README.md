@@ -28,7 +28,7 @@ In this lesson you're going to build an application that provides a Command Line
 [worlds best restaurants](https://github.com/dannyd4315/worlds-best-restaurants-cli-gem) was built by a Learn student and meets these requirements and is well coded.
 Take the time to clone, run and look through the code for both of these in detail - it'll really help.
 
-There is also a [video walkthrough](https://www.youtube.com/watch?v=_lDExWIhYKI) of building a CLI Gem called [Daily Deal](https://github.com/learn-co-curriculum/daily_deal) if you're having a hard time getting started.
+There is also a [video walkthrough](https://www.youtube.com/watch?v=_lDExWIhYKI) of building a CLI Gem called [Daily Deal](https://github.com/learn-co-curriculum/daily_deal) that reviews planning, configuring, and coding a gem. You may find it beneficial to watch before starting your project.
 
 ## Instructions
 
@@ -87,3 +87,5 @@ If necessary, after the assessment, be prepared to:
 - [Video- Student Example 1: Refactoring CLI Data Gem](https://www.youtube.com/watch?v=JEL_PXr74qQ)
 - [Video- Student Example 2: Refactoring CLI Data Gem](https://www.youtube.com/watch?v=Lt0oyHiKWIw)
 
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/cli-data-gem-assessment'>CLI Data Gem Project</a> on Learn.co and start learning to code for free.</p>
